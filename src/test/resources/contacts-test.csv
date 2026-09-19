@@ -1,0 +1,5 @@
+contactID,name,name1,email,postalZip,address
+1,Ana,Perez,ana@example.com,02110,123 Main St
+2, ANA ,PEREZ,ANA@example.com,02110,123 Main St.
+3,Bruno,Lopez,bruno@example.net,99999,8 Other Rd
+4,Carla,Diaz,carla@example.org,88888,9 Elsewhere Ave
